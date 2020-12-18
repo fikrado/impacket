@@ -19,7 +19,7 @@ from __future__ import print_function
 import argparse
 import sys
 import os
-import logging
+import logging #eror
 
 from impacket.examples import logger
 from impacket import version, tds
